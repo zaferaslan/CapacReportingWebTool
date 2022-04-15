@@ -1,0 +1,270 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@using System.Data
+@model DataSet
+@{
+    var operatinNo = (List<SelectListItem>)ViewData["MyData"];
+}
+<!DOCTYPE html>
+<link rel="stylesheet" href="~/Content/bootstrap1.min.css">
+<script src="~/Content/jquery.min.js"></script>
+<script src="~/Content/bootstrap.min.js"></script>
+<script type="text/javascript" src="~/Content/jquery-1.7.2.min.js"></script>
+<script src="~/Content/jquery1.min.js"></script>
+
+<link rel="stylesheet" href="~/Content/jquery-ui.css" />
+
+<!-- Bootstrap -->
+<!-- Bootstrap Core CSS -->
+<!-- Custom CSS -->
+<!-- Custom Fonts -->
+<link href="~/Content/font-awesome.min.css" rel="stylesheet" type="text/css">
+<!-- DataTables CSS -->
+<link href="~/Content/dataTables.bootstrap.min.css" rel="stylesheet">
+
+<link rel="stylesheet" type="text/css" href="//cdn.datatables.net/1.11.1/css/jquery.dataTables.min.css" />
+<!-- DataTables Responsive CSS -->
+<link href="~/Content/responsive.dataTables.min.css" rel="stylesheet">
+<link href="~/Content/fixedColumns.dataTables.min.css" rel="stylesheet">
+
+<link rel="stylesheet" href="~/Content/jquery1-ui.css">
+
+@*<link rel="stylesheet" href="~/Content/bootstrap-datepicker.min.css">*@
+
+<link rel="stylesheet" href="~/Content/jquery.jgrowl.css" />
+<link rel="stylesheet" href="~/Content/bootstrap-year-calendar.min.css" />
+<link rel="stylesheet" href="~/Content/bootstrap-multiselect.css" />
+<link href="~/Content/buttons.dataTables.min.css" rel="stylesheet">
+<link rel="stylesheet" href="~/Content/bootstrap-select.min.css" />
+<link rel="stylesheet" href="~/Content/jquery.dataTables.min.css" />
+<style>
+    body {
+        background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.6) 0%,rgba(0,0,0,0.6) 100%), url(../../Image/automation-matchbot.jpg);
+        background-size: cover;
+        /*background-size: auto;*/
+        background-color: aliceblue;
+        /*background-size: auto;
+        background-size: cover;*/
+        overflow-x: hidden;
+        overflow-y: auto;
+    }
+
+    .container .panel {
+        position: absolute;
+        top: 52%;
+        left: 50%;
+        transform: translateX(-50%) translateY(-50%);
+    }
+
+    th, td {
+        white-space: nowrap;
+        overflow: hidden;
+    }
+
+    div.dataTables_wrapper {
+        margin: 0 auto;
+    }
+
+    .navbar-inverse .navbar-nav > li > a {
+        color: #ffffff;
+    }
+
+    .navbar-inverse .navbar-brand > li > a {
+        color: #ffffff;
+    }
+
+    td.highlight {
+        background-color: whitesmoke !important;
+    }
+
+    .navbar-inverse .navbar-brand {
+        color: #ffffff;
+    }
+
+    .ui-datepicker-calendar {
+        display: none;
+    }
+</style>
+
+<body>
+    <div class="well" id="content">
+        <header><h1>Capac Reporting Web Tool</h1></header>
+        <div class="table-responsive" style="width:100%; min-width:100%">
+
+            <table id="mytable"
+                   class="table table-striped table-bordered"
+                   style="width:100%">
+                <thead>
+                    <tr>
+                        <th>LOGDATE</th>
+                        <th>SerialNo</th>
+                        <th>PalletNo</th>
+                        <th>Model</th>
+                        <th>TestPlanNo</th>
+                        <th>Station</th>
+                        <th>PositionNo</th>
+                        <th>Code</th>
+                        <th>CycleTime</th>
+                        <th>ITime</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @if (Model != null)
+                    {
+                        foreach (DataRow row in Model.Tables[0].Rows)
+                        {
+                            <tr>
+                                <td>@row["LOGDATE"]</td>
+                                <td>@row["SerialNo"]</td>
+                                <td>@row["PalletNo"]</td>
+                                <td>@row["Model"]</td>
+                                <td>@row["TestPlanNo"]</td>
+                                <td>@row["Station"]</td>
+                                <td>@row["PositionNo"]</td>
+                                <td>@row["Code"]</td>
+                                <td>@row["CycleTime"]</td>
+                                <td>@row["ITime"]</td>
+                            </tr>
+                            <tr></tr>
+
+                        }
+                    }
+                </tbody>
+                @using (Html.BeginForm("TraceData", "Home", FormMethod.Post, new { enctype = "multipart/form-data" }))
+                {
+                    <div class="col-xs-3">
+                        <label>Rapor Türü</label>
+                        <select id="input_operationNo" name="input_operationNo" class="form-control" required>
+                            @if (operatinNo != null)
+                            {
+                                foreach (var c in operatinNo)
+                                {
+                                    <option value="@c.Text">@c.Text</option>
+                                }
+                            }
+
+                        </select>
+
+                    </div>
+                    @*<div class="col-xs-4">
+                            <label for="fname">DM No:</label>
+                            <input type="text" id="dmno" name="dmno">
+                        </div>*@
+
+                    <div class="col-xs-4">
+                        <div class="form-group">
+                            <label>Başlangıç Tarihi</label>
+                            <div class='input-group date' id='datetimepicker'>
+                                <input id="input_startdate" name="input_startdate" type='text' autocomplete="off" class="form-control" required />
+                                <span class="input-group-addon">
+                                    <span class="glyphicon glyphicon-calendar">
+                                    </span>
+                                </span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xs-4">
+                        <div class="form-group">
+                            <label>Bitiş Tarihi</label>
+                            <div class='input-group date' id='datetimepicker-2'>
+                                <input id="input_enddate" name="input_enddate" type='text' autocomplete="off" class="form-control" required />
+                                <span class="input-group-addon">
+                                    <span class="glyphicon glyphicon-calendar">
+                                    </span>
+                                </span>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-xs-1">
+                        <br />
+                        <div class="form-group">
+                            <button id="btnSorgula" type="submit" class="btn btn-primary">Sorgula</button>
+                        </div>
+                    </div>
+                }
+            </table>
+
+        </div>
+
+    </div>
+</body>
+
+
+
+
+<!--javascript kütüphanesi -->
+@section Scripts
+{
+    <!--jQuery-->
+    <script src="~/Content/jquery-3.2.1.js"></script>
+    <!-- Bootstrap Core JavaScript -->
+
+    <script src="~/Content/bootstrap1.min.js"></script>
+    <script src="~/Content/jquery.validate.min.js"></script>
+
+    <!-- Morris Charts JavaScript -->
+    @*<script src="https://cdnjs.cloudflare.com/ajax/libs/raphael/2.2.7/raphael.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/morris.js/0.5.1/morris.min.js"></script>*@
+
+    <!-- Custom Theme JavaScript -->
+    <script src="~/Content/bootstrap-select.min.js"></script>
+
+    <script src="~/Content/excanvas.min.js"></script>
+    <script src="~/Content/jquery.flot.min.js"></script>
+    <script src="~/Content/jquery.flot.resize.min.js"></script>
+    <script src="~/Content/jquery.flot.time.min.js"></script>
+    <script src="~/Content/jquery.flot.tooltip.min.js"></script>
+
+
+    <!-- DataTables JavaScript -->
+
+
+    <script src="~/Content/jquery.dataTables.min.js"></script>
+    <script src="~/Content/dataTables.bootstrap.min.js"></script>
+    <script src="~/Content/dataTables.responsive.min.js"></script>
+    <script src="~/Content/dataTables.fixedColumns.min.js"></script>
+
+    <script src="~/Content/bootstrap-datepicker.min.js"></script>
+    <script src="~/Content/jquery.jgrowl.js"></script>
+    <script src="~/Content/bootstrap-year-calendar.js"></script>
+    <script type="text/javascript" src="//cdn.datatables.net/1.11.1/js/jquery.dataTables.min.js"></script>
+
+    <script type="text/javascript">
+        //$(document).ready(function () {
+        //    $("#btnSorgula").trigger("click");
+        //});
+        //$(document).ready(function () {
+        //    $('#mytable').DataTable();
+        //});
+
+
+        $("#datetimepicker").datepicker(
+            {
+                viewMode: 'years',
+                format: 'dd-mm-yyyy',
+            });
+        $("#datetimepicker-2").datepicker(
+            {
+                viewMode: 'years',
+                format: 'dd-mm-yyyy',
+            });
+
+    </script>
+    @*<link rel="stylesheet" type="text/css" href="//cdn.datatables.net/1.11.1/css/jquery.dataTables.min.css"/>
+        <script type="text/javascript" src="//cdn.datatables.net/1.11.1/js/jquery.dataTables.min.js"></script>
+        <script type="text/javascript">
+            $(document).ready(function () {
+                $('#mytable').dataTable();
+            });
+
+        </script>*@
+}
+
+
+
+

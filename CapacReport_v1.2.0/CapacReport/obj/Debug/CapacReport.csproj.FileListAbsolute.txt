@@ -1,0 +1,436 @@
+C:\Users\Zafer\source\repos\CapacReport\CapacReport\obj\Debug\CapacReport.csproj.AssemblyReference.cache
+C:\Users\Zafer\source\repos\CapacReport\CapacReport\obj\Debug\CapacReport.csproj.CoreCompileInputs.cache
+C:\Users\Zafer\source\repos\CapacReport\CapacReport\bin\CapacReport.dll.config
+C:\Users\Zafer\source\repos\CapacReport\CapacReport\bin\CapacReport.dll
+C:\Users\Zafer\source\repos\CapacReport\CapacReport\bin\CapacReport.pdb
+C:\Users\Zafer\source\repos\CapacReport\CapacReport\bin\roslyn\csc.exe
+C:\Users\Zafer\source\repos\CapacReport\CapacReport\bin\roslyn\csc.exe.config
+C:\Users\Zafer\source\repos\CapacReport\CapacReport\bin\roslyn\csc.rsp
+C:\Users\Zafer\source\repos\CapacReport\CapacReport\bin\roslyn\csi.exe
+C:\Users\Zafer\source\repos\CapacReport\CapacReport\bin\roslyn\csi.exe.config
+C:\Users\Zafer\source\repos\CapacReport\CapacReport\bin\roslyn\csi.rsp
+C:\Users\Zafer\source\repos\CapacReport\CapacReport\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Zafer\source\repos\CapacReport\CapacReport\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Zafer\source\repos\CapacReport\CapacReport\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Zafer\source\repos\CapacReport\CapacReport\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Zafer\source\repos\CapacReport\CapacReport\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Zafer\source\repos\CapacReport\CapacReport\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Zafer\source\repos\CapacReport\CapacReport\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Zafer\source\repos\CapacReport\CapacReport\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Zafer\source\repos\CapacReport\CapacReport\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Zafer\source\repos\CapacReport\CapacReport\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Zafer\source\repos\CapacReport\CapacReport\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Zafer\source\repos\CapacReport\CapacReport\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Zafer\source\repos\CapacReport\CapacReport\bin\roslyn\System.AppContext.dll
+C:\Users\Zafer\source\repos\CapacReport\CapacReport\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Zafer\source\repos\CapacReport\CapacReport\bin\roslyn\System.Console.dll
+C:\Users\Zafer\source\repos\CapacReport\CapacReport\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Zafer\source\repos\CapacReport\CapacReport\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Zafer\source\repos\CapacReport\CapacReport\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Zafer\source\repos\CapacReport\CapacReport\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Zafer\source\repos\CapacReport\CapacReport\bin\roslyn\System.IO.Compression.dll
+C:\Users\Zafer\source\repos\CapacReport\CapacReport\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Zafer\source\repos\CapacReport\CapacReport\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Zafer\source\repos\CapacReport\CapacReport\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Zafer\source\repos\CapacReport\CapacReport\bin\roslyn\System.Net.Http.dll
+C:\Users\Zafer\source\repos\CapacReport\CapacReport\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Zafer\source\repos\CapacReport\CapacReport\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Zafer\source\repos\CapacReport\CapacReport\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Zafer\source\repos\CapacReport\CapacReport\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Zafer\source\repos\CapacReport\CapacReport\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Zafer\source\repos\CapacReport\CapacReport\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Zafer\source\repos\CapacReport\CapacReport\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Zafer\source\repos\CapacReport\CapacReport\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Zafer\source\repos\CapacReport\CapacReport\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Zafer\source\repos\CapacReport\CapacReport\bin\roslyn\System.ValueTuple.dll
+C:\Users\Zafer\source\repos\CapacReport\CapacReport\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Zafer\source\repos\CapacReport\CapacReport\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Zafer\source\repos\CapacReport\CapacReport\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Zafer\source\repos\CapacReport\CapacReport\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Zafer\source\repos\CapacReport\CapacReport\bin\roslyn\vbc.exe
+C:\Users\Zafer\source\repos\CapacReport\CapacReport\bin\roslyn\vbc.exe.config
+C:\Users\Zafer\source\repos\CapacReport\CapacReport\bin\roslyn\vbc.rsp
+C:\Users\Zafer\source\repos\CapacReport\CapacReport\bin\roslyn\VBCSCompiler.exe
+C:\Users\Zafer\source\repos\CapacReport\CapacReport\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Zafer\source\repos\CapacReport\CapacReport\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Zafer\source\repos\CapacReport\CapacReport\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Zafer\source\repos\CapacReport\CapacReport\bin\System.Web.Helpers.dll
+C:\Users\Zafer\source\repos\CapacReport\CapacReport\bin\System.Web.Mvc.dll
+C:\Users\Zafer\source\repos\CapacReport\CapacReport\bin\System.Web.Razor.dll
+C:\Users\Zafer\source\repos\CapacReport\CapacReport\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Zafer\source\repos\CapacReport\CapacReport\bin\System.Web.Webpages.dll
+C:\Users\Zafer\source\repos\CapacReport\CapacReport\bin\System.Web.Webpages.Razor.dll
+C:\Users\Zafer\source\repos\CapacReport\CapacReport\bin\System.Web.Razor.xml
+C:\Users\Zafer\source\repos\CapacReport\CapacReport\bin\System.Web.Webpages.xml
+C:\Users\Zafer\source\repos\CapacReport\CapacReport\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Zafer\source\repos\CapacReport\CapacReport\bin\System.Web.Webpages.Razor.xml
+C:\Users\Zafer\source\repos\CapacReport\CapacReport\bin\System.Web.Helpers.xml
+C:\Users\Zafer\source\repos\CapacReport\CapacReport\bin\System.Web.Mvc.xml
+C:\Users\Zafer\source\repos\CapacReport\CapacReport\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Zafer\source\repos\CapacReport\CapacReport\obj\Debug\CapacReport.csproj.CopyComplete
+C:\Users\Zafer\source\repos\CapacReport\CapacReport\obj\Debug\CapacReport.dll
+C:\Users\Zafer\source\repos\CapacReport\CapacReport\obj\Debug\CapacReport.pdb
+C:\Users\Zafer\Desktop\CapacReport\CapacReport\obj\Debug\CapacReport.csproj.CoreCompileInputs.cache
+C:\Users\Zafer\Desktop\CapacReport\CapacReport\bin\CapacReport.dll.config
+C:\Users\Zafer\Desktop\CapacReport\CapacReport\bin\CapacReport.dll
+C:\Users\Zafer\Desktop\CapacReport\CapacReport\bin\CapacReport.pdb
+C:\Users\Zafer\Desktop\CapacReport\CapacReport\bin\roslyn\csc.exe
+C:\Users\Zafer\Desktop\CapacReport\CapacReport\bin\roslyn\csc.exe.config
+C:\Users\Zafer\Desktop\CapacReport\CapacReport\bin\roslyn\csc.rsp
+C:\Users\Zafer\Desktop\CapacReport\CapacReport\bin\roslyn\csi.exe
+C:\Users\Zafer\Desktop\CapacReport\CapacReport\bin\roslyn\csi.exe.config
+C:\Users\Zafer\Desktop\CapacReport\CapacReport\bin\roslyn\csi.rsp
+C:\Users\Zafer\Desktop\CapacReport\CapacReport\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Zafer\Desktop\CapacReport\CapacReport\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Zafer\Desktop\CapacReport\CapacReport\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Zafer\Desktop\CapacReport\CapacReport\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Zafer\Desktop\CapacReport\CapacReport\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Zafer\Desktop\CapacReport\CapacReport\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Zafer\Desktop\CapacReport\CapacReport\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Zafer\Desktop\CapacReport\CapacReport\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Zafer\Desktop\CapacReport\CapacReport\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Zafer\Desktop\CapacReport\CapacReport\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Zafer\Desktop\CapacReport\CapacReport\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Zafer\Desktop\CapacReport\CapacReport\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Zafer\Desktop\CapacReport\CapacReport\bin\roslyn\System.AppContext.dll
+C:\Users\Zafer\Desktop\CapacReport\CapacReport\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Zafer\Desktop\CapacReport\CapacReport\bin\roslyn\System.Console.dll
+C:\Users\Zafer\Desktop\CapacReport\CapacReport\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Zafer\Desktop\CapacReport\CapacReport\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Zafer\Desktop\CapacReport\CapacReport\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Zafer\Desktop\CapacReport\CapacReport\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Zafer\Desktop\CapacReport\CapacReport\bin\roslyn\System.IO.Compression.dll
+C:\Users\Zafer\Desktop\CapacReport\CapacReport\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Zafer\Desktop\CapacReport\CapacReport\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Zafer\Desktop\CapacReport\CapacReport\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Zafer\Desktop\CapacReport\CapacReport\bin\roslyn\System.Net.Http.dll
+C:\Users\Zafer\Desktop\CapacReport\CapacReport\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Zafer\Desktop\CapacReport\CapacReport\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Zafer\Desktop\CapacReport\CapacReport\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Zafer\Desktop\CapacReport\CapacReport\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Zafer\Desktop\CapacReport\CapacReport\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Zafer\Desktop\CapacReport\CapacReport\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Zafer\Desktop\CapacReport\CapacReport\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Zafer\Desktop\CapacReport\CapacReport\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Zafer\Desktop\CapacReport\CapacReport\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Zafer\Desktop\CapacReport\CapacReport\bin\roslyn\System.ValueTuple.dll
+C:\Users\Zafer\Desktop\CapacReport\CapacReport\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Zafer\Desktop\CapacReport\CapacReport\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Zafer\Desktop\CapacReport\CapacReport\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Zafer\Desktop\CapacReport\CapacReport\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Zafer\Desktop\CapacReport\CapacReport\bin\roslyn\vbc.exe
+C:\Users\Zafer\Desktop\CapacReport\CapacReport\bin\roslyn\vbc.exe.config
+C:\Users\Zafer\Desktop\CapacReport\CapacReport\bin\roslyn\vbc.rsp
+C:\Users\Zafer\Desktop\CapacReport\CapacReport\bin\roslyn\VBCSCompiler.exe
+C:\Users\Zafer\Desktop\CapacReport\CapacReport\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Zafer\Desktop\CapacReport\CapacReport\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Zafer\Desktop\CapacReport\CapacReport\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Zafer\Desktop\CapacReport\CapacReport\bin\System.Web.Helpers.dll
+C:\Users\Zafer\Desktop\CapacReport\CapacReport\bin\System.Web.Mvc.dll
+C:\Users\Zafer\Desktop\CapacReport\CapacReport\bin\System.Web.Razor.dll
+C:\Users\Zafer\Desktop\CapacReport\CapacReport\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Zafer\Desktop\CapacReport\CapacReport\bin\System.Web.Webpages.dll
+C:\Users\Zafer\Desktop\CapacReport\CapacReport\bin\System.Web.Webpages.Razor.dll
+C:\Users\Zafer\Desktop\CapacReport\CapacReport\bin\System.Web.Razor.xml
+C:\Users\Zafer\Desktop\CapacReport\CapacReport\bin\System.Web.Webpages.xml
+C:\Users\Zafer\Desktop\CapacReport\CapacReport\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Zafer\Desktop\CapacReport\CapacReport\bin\System.Web.Webpages.Razor.xml
+C:\Users\Zafer\Desktop\CapacReport\CapacReport\bin\System.Web.Helpers.xml
+C:\Users\Zafer\Desktop\CapacReport\CapacReport\bin\System.Web.Mvc.xml
+C:\Users\Zafer\Desktop\CapacReport\CapacReport\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Zafer\Desktop\CapacReport\CapacReport\obj\Debug\CapacReport.csproj.CopyComplete
+C:\Users\Zafer\Desktop\CapacReport\CapacReport\obj\Debug\CapacReport.dll
+C:\Users\Zafer\Desktop\CapacReport\CapacReport\obj\Debug\CapacReport.pdb
+C:\Users\Zafer\Desktop\CapacReport\CapacReport\obj\Debug\CapacReport.csproj.AssemblyReference.cache
+C:\Users\Zafer\Desktop\CapacReport\CapacReport\bin\Syncfusion.Licensing.dll
+C:\Users\Zafer\Desktop\YEDEK-1\CapacReport_v1.1.0\CapacReport\bin\CapacReport.dll.config
+C:\Users\Zafer\Desktop\YEDEK-1\CapacReport_v1.1.0\CapacReport\bin\CapacReport.dll
+C:\Users\Zafer\Desktop\YEDEK-1\CapacReport_v1.1.0\CapacReport\bin\CapacReport.pdb
+C:\Users\Zafer\Desktop\YEDEK-1\CapacReport_v1.1.0\CapacReport\bin\roslyn\csc.exe
+C:\Users\Zafer\Desktop\YEDEK-1\CapacReport_v1.1.0\CapacReport\bin\roslyn\csc.exe.config
+C:\Users\Zafer\Desktop\YEDEK-1\CapacReport_v1.1.0\CapacReport\bin\roslyn\csc.rsp
+C:\Users\Zafer\Desktop\YEDEK-1\CapacReport_v1.1.0\CapacReport\bin\roslyn\csi.exe
+C:\Users\Zafer\Desktop\YEDEK-1\CapacReport_v1.1.0\CapacReport\bin\roslyn\csi.exe.config
+C:\Users\Zafer\Desktop\YEDEK-1\CapacReport_v1.1.0\CapacReport\bin\roslyn\csi.rsp
+C:\Users\Zafer\Desktop\YEDEK-1\CapacReport_v1.1.0\CapacReport\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Zafer\Desktop\YEDEK-1\CapacReport_v1.1.0\CapacReport\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Zafer\Desktop\YEDEK-1\CapacReport_v1.1.0\CapacReport\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Zafer\Desktop\YEDEK-1\CapacReport_v1.1.0\CapacReport\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Zafer\Desktop\YEDEK-1\CapacReport_v1.1.0\CapacReport\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Zafer\Desktop\YEDEK-1\CapacReport_v1.1.0\CapacReport\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Zafer\Desktop\YEDEK-1\CapacReport_v1.1.0\CapacReport\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Zafer\Desktop\YEDEK-1\CapacReport_v1.1.0\CapacReport\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Zafer\Desktop\YEDEK-1\CapacReport_v1.1.0\CapacReport\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Zafer\Desktop\YEDEK-1\CapacReport_v1.1.0\CapacReport\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Zafer\Desktop\YEDEK-1\CapacReport_v1.1.0\CapacReport\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Zafer\Desktop\YEDEK-1\CapacReport_v1.1.0\CapacReport\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Zafer\Desktop\YEDEK-1\CapacReport_v1.1.0\CapacReport\bin\roslyn\System.AppContext.dll
+C:\Users\Zafer\Desktop\YEDEK-1\CapacReport_v1.1.0\CapacReport\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Zafer\Desktop\YEDEK-1\CapacReport_v1.1.0\CapacReport\bin\roslyn\System.Console.dll
+C:\Users\Zafer\Desktop\YEDEK-1\CapacReport_v1.1.0\CapacReport\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Zafer\Desktop\YEDEK-1\CapacReport_v1.1.0\CapacReport\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Zafer\Desktop\YEDEK-1\CapacReport_v1.1.0\CapacReport\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Zafer\Desktop\YEDEK-1\CapacReport_v1.1.0\CapacReport\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Zafer\Desktop\YEDEK-1\CapacReport_v1.1.0\CapacReport\bin\roslyn\System.IO.Compression.dll
+C:\Users\Zafer\Desktop\YEDEK-1\CapacReport_v1.1.0\CapacReport\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Zafer\Desktop\YEDEK-1\CapacReport_v1.1.0\CapacReport\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Zafer\Desktop\YEDEK-1\CapacReport_v1.1.0\CapacReport\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Zafer\Desktop\YEDEK-1\CapacReport_v1.1.0\CapacReport\bin\roslyn\System.Net.Http.dll
+C:\Users\Zafer\Desktop\YEDEK-1\CapacReport_v1.1.0\CapacReport\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Zafer\Desktop\YEDEK-1\CapacReport_v1.1.0\CapacReport\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Zafer\Desktop\YEDEK-1\CapacReport_v1.1.0\CapacReport\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Zafer\Desktop\YEDEK-1\CapacReport_v1.1.0\CapacReport\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Zafer\Desktop\YEDEK-1\CapacReport_v1.1.0\CapacReport\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Zafer\Desktop\YEDEK-1\CapacReport_v1.1.0\CapacReport\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Zafer\Desktop\YEDEK-1\CapacReport_v1.1.0\CapacReport\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Zafer\Desktop\YEDEK-1\CapacReport_v1.1.0\CapacReport\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Zafer\Desktop\YEDEK-1\CapacReport_v1.1.0\CapacReport\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Zafer\Desktop\YEDEK-1\CapacReport_v1.1.0\CapacReport\bin\roslyn\System.ValueTuple.dll
+C:\Users\Zafer\Desktop\YEDEK-1\CapacReport_v1.1.0\CapacReport\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Zafer\Desktop\YEDEK-1\CapacReport_v1.1.0\CapacReport\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Zafer\Desktop\YEDEK-1\CapacReport_v1.1.0\CapacReport\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Zafer\Desktop\YEDEK-1\CapacReport_v1.1.0\CapacReport\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Zafer\Desktop\YEDEK-1\CapacReport_v1.1.0\CapacReport\bin\roslyn\vbc.exe
+C:\Users\Zafer\Desktop\YEDEK-1\CapacReport_v1.1.0\CapacReport\bin\roslyn\vbc.exe.config
+C:\Users\Zafer\Desktop\YEDEK-1\CapacReport_v1.1.0\CapacReport\bin\roslyn\vbc.rsp
+C:\Users\Zafer\Desktop\YEDEK-1\CapacReport_v1.1.0\CapacReport\bin\roslyn\VBCSCompiler.exe
+C:\Users\Zafer\Desktop\YEDEK-1\CapacReport_v1.1.0\CapacReport\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Zafer\Desktop\YEDEK-1\CapacReport_v1.1.0\CapacReport\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Zafer\Desktop\YEDEK-1\CapacReport_v1.1.0\CapacReport\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Zafer\Desktop\YEDEK-1\CapacReport_v1.1.0\CapacReport\bin\Syncfusion.Licensing.dll
+C:\Users\Zafer\Desktop\YEDEK-1\CapacReport_v1.1.0\CapacReport\bin\System.Web.Helpers.dll
+C:\Users\Zafer\Desktop\YEDEK-1\CapacReport_v1.1.0\CapacReport\bin\System.Web.Mvc.dll
+C:\Users\Zafer\Desktop\YEDEK-1\CapacReport_v1.1.0\CapacReport\bin\System.Web.Razor.dll
+C:\Users\Zafer\Desktop\YEDEK-1\CapacReport_v1.1.0\CapacReport\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Zafer\Desktop\YEDEK-1\CapacReport_v1.1.0\CapacReport\bin\System.Web.Webpages.dll
+C:\Users\Zafer\Desktop\YEDEK-1\CapacReport_v1.1.0\CapacReport\bin\System.Web.Webpages.Razor.dll
+C:\Users\Zafer\Desktop\YEDEK-1\CapacReport_v1.1.0\CapacReport\bin\System.Web.Razor.xml
+C:\Users\Zafer\Desktop\YEDEK-1\CapacReport_v1.1.0\CapacReport\bin\System.Web.Webpages.xml
+C:\Users\Zafer\Desktop\YEDEK-1\CapacReport_v1.1.0\CapacReport\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Zafer\Desktop\YEDEK-1\CapacReport_v1.1.0\CapacReport\bin\System.Web.Webpages.Razor.xml
+C:\Users\Zafer\Desktop\YEDEK-1\CapacReport_v1.1.0\CapacReport\bin\System.Web.Helpers.xml
+C:\Users\Zafer\Desktop\YEDEK-1\CapacReport_v1.1.0\CapacReport\bin\System.Web.Mvc.xml
+C:\Users\Zafer\Desktop\YEDEK-1\CapacReport_v1.1.0\CapacReport\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Zafer\Desktop\YEDEK-1\CapacReport_v1.1.0\CapacReport\obj\Debug\CapacReport.csproj.AssemblyReference.cache
+C:\Users\Zafer\Desktop\YEDEK-1\CapacReport_v1.1.0\CapacReport\obj\Debug\CapacReport.csproj.CoreCompileInputs.cache
+C:\Users\Zafer\Desktop\YEDEK-1\CapacReport_v1.1.0\CapacReport\obj\Debug\CapacReport.csproj.CopyComplete
+C:\Users\Zafer\Desktop\YEDEK-1\CapacReport_v1.1.0\CapacReport\obj\Debug\CapacReport.dll
+C:\Users\Zafer\Desktop\YEDEK-1\CapacReport_v1.1.0\CapacReport\obj\Debug\CapacReport.pdb
+C:\Users\Zafer\Desktop\CapacReport_v1.1.0\CapacReport\bin\CapacReport.dll.config
+C:\Users\Zafer\Desktop\CapacReport_v1.1.0\CapacReport\bin\CapacReport.dll
+C:\Users\Zafer\Desktop\CapacReport_v1.1.0\CapacReport\bin\CapacReport.pdb
+C:\Users\Zafer\Desktop\CapacReport_v1.1.0\CapacReport\bin\roslyn\csc.exe
+C:\Users\Zafer\Desktop\CapacReport_v1.1.0\CapacReport\bin\roslyn\csc.exe.config
+C:\Users\Zafer\Desktop\CapacReport_v1.1.0\CapacReport\bin\roslyn\csc.rsp
+C:\Users\Zafer\Desktop\CapacReport_v1.1.0\CapacReport\bin\roslyn\csi.exe
+C:\Users\Zafer\Desktop\CapacReport_v1.1.0\CapacReport\bin\roslyn\csi.exe.config
+C:\Users\Zafer\Desktop\CapacReport_v1.1.0\CapacReport\bin\roslyn\csi.rsp
+C:\Users\Zafer\Desktop\CapacReport_v1.1.0\CapacReport\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Zafer\Desktop\CapacReport_v1.1.0\CapacReport\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Zafer\Desktop\CapacReport_v1.1.0\CapacReport\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Zafer\Desktop\CapacReport_v1.1.0\CapacReport\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Zafer\Desktop\CapacReport_v1.1.0\CapacReport\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Zafer\Desktop\CapacReport_v1.1.0\CapacReport\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Zafer\Desktop\CapacReport_v1.1.0\CapacReport\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Zafer\Desktop\CapacReport_v1.1.0\CapacReport\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Zafer\Desktop\CapacReport_v1.1.0\CapacReport\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Zafer\Desktop\CapacReport_v1.1.0\CapacReport\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Zafer\Desktop\CapacReport_v1.1.0\CapacReport\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Zafer\Desktop\CapacReport_v1.1.0\CapacReport\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Zafer\Desktop\CapacReport_v1.1.0\CapacReport\bin\roslyn\System.AppContext.dll
+C:\Users\Zafer\Desktop\CapacReport_v1.1.0\CapacReport\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Zafer\Desktop\CapacReport_v1.1.0\CapacReport\bin\roslyn\System.Console.dll
+C:\Users\Zafer\Desktop\CapacReport_v1.1.0\CapacReport\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Zafer\Desktop\CapacReport_v1.1.0\CapacReport\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Zafer\Desktop\CapacReport_v1.1.0\CapacReport\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Zafer\Desktop\CapacReport_v1.1.0\CapacReport\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Zafer\Desktop\CapacReport_v1.1.0\CapacReport\bin\roslyn\System.IO.Compression.dll
+C:\Users\Zafer\Desktop\CapacReport_v1.1.0\CapacReport\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Zafer\Desktop\CapacReport_v1.1.0\CapacReport\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Zafer\Desktop\CapacReport_v1.1.0\CapacReport\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Zafer\Desktop\CapacReport_v1.1.0\CapacReport\bin\roslyn\System.Net.Http.dll
+C:\Users\Zafer\Desktop\CapacReport_v1.1.0\CapacReport\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Zafer\Desktop\CapacReport_v1.1.0\CapacReport\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Zafer\Desktop\CapacReport_v1.1.0\CapacReport\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Zafer\Desktop\CapacReport_v1.1.0\CapacReport\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Zafer\Desktop\CapacReport_v1.1.0\CapacReport\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Zafer\Desktop\CapacReport_v1.1.0\CapacReport\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Zafer\Desktop\CapacReport_v1.1.0\CapacReport\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Zafer\Desktop\CapacReport_v1.1.0\CapacReport\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Zafer\Desktop\CapacReport_v1.1.0\CapacReport\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Zafer\Desktop\CapacReport_v1.1.0\CapacReport\bin\roslyn\System.ValueTuple.dll
+C:\Users\Zafer\Desktop\CapacReport_v1.1.0\CapacReport\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Zafer\Desktop\CapacReport_v1.1.0\CapacReport\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Zafer\Desktop\CapacReport_v1.1.0\CapacReport\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Zafer\Desktop\CapacReport_v1.1.0\CapacReport\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Zafer\Desktop\CapacReport_v1.1.0\CapacReport\bin\roslyn\vbc.exe
+C:\Users\Zafer\Desktop\CapacReport_v1.1.0\CapacReport\bin\roslyn\vbc.exe.config
+C:\Users\Zafer\Desktop\CapacReport_v1.1.0\CapacReport\bin\roslyn\vbc.rsp
+C:\Users\Zafer\Desktop\CapacReport_v1.1.0\CapacReport\bin\roslyn\VBCSCompiler.exe
+C:\Users\Zafer\Desktop\CapacReport_v1.1.0\CapacReport\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Zafer\Desktop\CapacReport_v1.1.0\CapacReport\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Zafer\Desktop\CapacReport_v1.1.0\CapacReport\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Zafer\Desktop\CapacReport_v1.1.0\CapacReport\bin\Syncfusion.Licensing.dll
+C:\Users\Zafer\Desktop\CapacReport_v1.1.0\CapacReport\bin\System.Web.Helpers.dll
+C:\Users\Zafer\Desktop\CapacReport_v1.1.0\CapacReport\bin\System.Web.Mvc.dll
+C:\Users\Zafer\Desktop\CapacReport_v1.1.0\CapacReport\bin\System.Web.Razor.dll
+C:\Users\Zafer\Desktop\CapacReport_v1.1.0\CapacReport\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Zafer\Desktop\CapacReport_v1.1.0\CapacReport\bin\System.Web.Webpages.dll
+C:\Users\Zafer\Desktop\CapacReport_v1.1.0\CapacReport\bin\System.Web.Webpages.Razor.dll
+C:\Users\Zafer\Desktop\CapacReport_v1.1.0\CapacReport\bin\System.Web.Razor.xml
+C:\Users\Zafer\Desktop\CapacReport_v1.1.0\CapacReport\bin\System.Web.Webpages.xml
+C:\Users\Zafer\Desktop\CapacReport_v1.1.0\CapacReport\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Zafer\Desktop\CapacReport_v1.1.0\CapacReport\bin\System.Web.Webpages.Razor.xml
+C:\Users\Zafer\Desktop\CapacReport_v1.1.0\CapacReport\bin\System.Web.Helpers.xml
+C:\Users\Zafer\Desktop\CapacReport_v1.1.0\CapacReport\bin\System.Web.Mvc.xml
+C:\Users\Zafer\Desktop\CapacReport_v1.1.0\CapacReport\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Zafer\Desktop\CapacReport_v1.1.0\CapacReport\obj\Debug\CapacReport.csproj.AssemblyReference.cache
+C:\Users\Zafer\Desktop\CapacReport_v1.1.0\CapacReport\obj\Debug\CapacReport.csproj.CoreCompileInputs.cache
+C:\Users\Zafer\Desktop\CapacReport_v1.1.0\CapacReport\obj\Debug\CapacReport.csproj.CopyComplete
+C:\Users\Zafer\Desktop\CapacReport_v1.1.0\CapacReport\obj\Debug\CapacReport.dll
+C:\Users\Zafer\Desktop\CapacReport_v1.1.0\CapacReport\obj\Debug\CapacReport.pdb
+C:\Users\Zafer\Desktop\CapacReport_v1.2.0\CapacReport\bin\CapacReport.dll.config
+C:\Users\Zafer\Desktop\CapacReport_v1.2.0\CapacReport\bin\CapacReport.dll
+C:\Users\Zafer\Desktop\CapacReport_v1.2.0\CapacReport\bin\CapacReport.pdb
+C:\Users\Zafer\Desktop\CapacReport_v1.2.0\CapacReport\bin\roslyn\csc.exe
+C:\Users\Zafer\Desktop\CapacReport_v1.2.0\CapacReport\bin\roslyn\csc.exe.config
+C:\Users\Zafer\Desktop\CapacReport_v1.2.0\CapacReport\bin\roslyn\csc.rsp
+C:\Users\Zafer\Desktop\CapacReport_v1.2.0\CapacReport\bin\roslyn\csi.exe
+C:\Users\Zafer\Desktop\CapacReport_v1.2.0\CapacReport\bin\roslyn\csi.exe.config
+C:\Users\Zafer\Desktop\CapacReport_v1.2.0\CapacReport\bin\roslyn\csi.rsp
+C:\Users\Zafer\Desktop\CapacReport_v1.2.0\CapacReport\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Zafer\Desktop\CapacReport_v1.2.0\CapacReport\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Zafer\Desktop\CapacReport_v1.2.0\CapacReport\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Zafer\Desktop\CapacReport_v1.2.0\CapacReport\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Zafer\Desktop\CapacReport_v1.2.0\CapacReport\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Zafer\Desktop\CapacReport_v1.2.0\CapacReport\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Zafer\Desktop\CapacReport_v1.2.0\CapacReport\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Zafer\Desktop\CapacReport_v1.2.0\CapacReport\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Zafer\Desktop\CapacReport_v1.2.0\CapacReport\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Zafer\Desktop\CapacReport_v1.2.0\CapacReport\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Zafer\Desktop\CapacReport_v1.2.0\CapacReport\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Zafer\Desktop\CapacReport_v1.2.0\CapacReport\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Zafer\Desktop\CapacReport_v1.2.0\CapacReport\bin\roslyn\System.AppContext.dll
+C:\Users\Zafer\Desktop\CapacReport_v1.2.0\CapacReport\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Zafer\Desktop\CapacReport_v1.2.0\CapacReport\bin\roslyn\System.Console.dll
+C:\Users\Zafer\Desktop\CapacReport_v1.2.0\CapacReport\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Zafer\Desktop\CapacReport_v1.2.0\CapacReport\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Zafer\Desktop\CapacReport_v1.2.0\CapacReport\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Zafer\Desktop\CapacReport_v1.2.0\CapacReport\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Zafer\Desktop\CapacReport_v1.2.0\CapacReport\bin\roslyn\System.IO.Compression.dll
+C:\Users\Zafer\Desktop\CapacReport_v1.2.0\CapacReport\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Zafer\Desktop\CapacReport_v1.2.0\CapacReport\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Zafer\Desktop\CapacReport_v1.2.0\CapacReport\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Zafer\Desktop\CapacReport_v1.2.0\CapacReport\bin\roslyn\System.Net.Http.dll
+C:\Users\Zafer\Desktop\CapacReport_v1.2.0\CapacReport\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Zafer\Desktop\CapacReport_v1.2.0\CapacReport\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Zafer\Desktop\CapacReport_v1.2.0\CapacReport\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Zafer\Desktop\CapacReport_v1.2.0\CapacReport\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Zafer\Desktop\CapacReport_v1.2.0\CapacReport\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Zafer\Desktop\CapacReport_v1.2.0\CapacReport\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Zafer\Desktop\CapacReport_v1.2.0\CapacReport\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Zafer\Desktop\CapacReport_v1.2.0\CapacReport\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Zafer\Desktop\CapacReport_v1.2.0\CapacReport\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Zafer\Desktop\CapacReport_v1.2.0\CapacReport\bin\roslyn\System.ValueTuple.dll
+C:\Users\Zafer\Desktop\CapacReport_v1.2.0\CapacReport\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Zafer\Desktop\CapacReport_v1.2.0\CapacReport\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Zafer\Desktop\CapacReport_v1.2.0\CapacReport\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Zafer\Desktop\CapacReport_v1.2.0\CapacReport\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Zafer\Desktop\CapacReport_v1.2.0\CapacReport\bin\roslyn\vbc.exe
+C:\Users\Zafer\Desktop\CapacReport_v1.2.0\CapacReport\bin\roslyn\vbc.exe.config
+C:\Users\Zafer\Desktop\CapacReport_v1.2.0\CapacReport\bin\roslyn\vbc.rsp
+C:\Users\Zafer\Desktop\CapacReport_v1.2.0\CapacReport\bin\roslyn\VBCSCompiler.exe
+C:\Users\Zafer\Desktop\CapacReport_v1.2.0\CapacReport\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Zafer\Desktop\CapacReport_v1.2.0\CapacReport\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Zafer\Desktop\CapacReport_v1.2.0\CapacReport\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Zafer\Desktop\CapacReport_v1.2.0\CapacReport\bin\Syncfusion.Licensing.dll
+C:\Users\Zafer\Desktop\CapacReport_v1.2.0\CapacReport\bin\System.Web.Helpers.dll
+C:\Users\Zafer\Desktop\CapacReport_v1.2.0\CapacReport\bin\System.Web.Mvc.dll
+C:\Users\Zafer\Desktop\CapacReport_v1.2.0\CapacReport\bin\System.Web.Razor.dll
+C:\Users\Zafer\Desktop\CapacReport_v1.2.0\CapacReport\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Zafer\Desktop\CapacReport_v1.2.0\CapacReport\bin\System.Web.Webpages.dll
+C:\Users\Zafer\Desktop\CapacReport_v1.2.0\CapacReport\bin\System.Web.Webpages.Razor.dll
+C:\Users\Zafer\Desktop\CapacReport_v1.2.0\CapacReport\bin\System.Web.Razor.xml
+C:\Users\Zafer\Desktop\CapacReport_v1.2.0\CapacReport\bin\System.Web.Webpages.xml
+C:\Users\Zafer\Desktop\CapacReport_v1.2.0\CapacReport\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Zafer\Desktop\CapacReport_v1.2.0\CapacReport\bin\System.Web.Webpages.Razor.xml
+C:\Users\Zafer\Desktop\CapacReport_v1.2.0\CapacReport\bin\System.Web.Helpers.xml
+C:\Users\Zafer\Desktop\CapacReport_v1.2.0\CapacReport\bin\System.Web.Mvc.xml
+C:\Users\Zafer\Desktop\CapacReport_v1.2.0\CapacReport\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Zafer\Desktop\CapacReport_v1.2.0\CapacReport\obj\Debug\CapacReport.csproj.AssemblyReference.cache
+C:\Users\Zafer\Desktop\CapacReport_v1.2.0\CapacReport\obj\Debug\CapacReport.csproj.CoreCompileInputs.cache
+C:\Users\Zafer\Desktop\CapacReport_v1.2.0\CapacReport\obj\Debug\CapacReport.csproj.CopyComplete
+C:\Users\Zafer\Desktop\CapacReport_v1.2.0\CapacReport\obj\Debug\CapacReport.dll
+C:\Users\Zafer\Desktop\CapacReport_v1.2.0\CapacReport\obj\Debug\CapacReport.pdb
+D:\Atılacak projeler\CapacReport_v1.2.0\CapacReport\bin\CapacReport.dll.config
+D:\Atılacak projeler\CapacReport_v1.2.0\CapacReport\bin\CapacReport.dll
+D:\Atılacak projeler\CapacReport_v1.2.0\CapacReport\bin\CapacReport.pdb
+D:\Atılacak projeler\CapacReport_v1.2.0\CapacReport\bin\roslyn\csc.exe
+D:\Atılacak projeler\CapacReport_v1.2.0\CapacReport\bin\roslyn\csc.exe.config
+D:\Atılacak projeler\CapacReport_v1.2.0\CapacReport\bin\roslyn\csc.rsp
+D:\Atılacak projeler\CapacReport_v1.2.0\CapacReport\bin\roslyn\csi.exe
+D:\Atılacak projeler\CapacReport_v1.2.0\CapacReport\bin\roslyn\csi.exe.config
+D:\Atılacak projeler\CapacReport_v1.2.0\CapacReport\bin\roslyn\csi.rsp
+D:\Atılacak projeler\CapacReport_v1.2.0\CapacReport\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Atılacak projeler\CapacReport_v1.2.0\CapacReport\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Atılacak projeler\CapacReport_v1.2.0\CapacReport\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Atılacak projeler\CapacReport_v1.2.0\CapacReport\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Atılacak projeler\CapacReport_v1.2.0\CapacReport\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Atılacak projeler\CapacReport_v1.2.0\CapacReport\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Atılacak projeler\CapacReport_v1.2.0\CapacReport\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Atılacak projeler\CapacReport_v1.2.0\CapacReport\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Atılacak projeler\CapacReport_v1.2.0\CapacReport\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Atılacak projeler\CapacReport_v1.2.0\CapacReport\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Atılacak projeler\CapacReport_v1.2.0\CapacReport\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Atılacak projeler\CapacReport_v1.2.0\CapacReport\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Atılacak projeler\CapacReport_v1.2.0\CapacReport\bin\roslyn\System.AppContext.dll
+D:\Atılacak projeler\CapacReport_v1.2.0\CapacReport\bin\roslyn\System.Collections.Immutable.dll
+D:\Atılacak projeler\CapacReport_v1.2.0\CapacReport\bin\roslyn\System.Console.dll
+D:\Atılacak projeler\CapacReport_v1.2.0\CapacReport\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Atılacak projeler\CapacReport_v1.2.0\CapacReport\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Atılacak projeler\CapacReport_v1.2.0\CapacReport\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Atılacak projeler\CapacReport_v1.2.0\CapacReport\bin\roslyn\System.Globalization.Calendars.dll
+D:\Atılacak projeler\CapacReport_v1.2.0\CapacReport\bin\roslyn\System.IO.Compression.dll
+D:\Atılacak projeler\CapacReport_v1.2.0\CapacReport\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Atılacak projeler\CapacReport_v1.2.0\CapacReport\bin\roslyn\System.IO.FileSystem.dll
+D:\Atılacak projeler\CapacReport_v1.2.0\CapacReport\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Atılacak projeler\CapacReport_v1.2.0\CapacReport\bin\roslyn\System.Net.Http.dll
+D:\Atılacak projeler\CapacReport_v1.2.0\CapacReport\bin\roslyn\System.Net.Sockets.dll
+D:\Atılacak projeler\CapacReport_v1.2.0\CapacReport\bin\roslyn\System.Reflection.Metadata.dll
+D:\Atılacak projeler\CapacReport_v1.2.0\CapacReport\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Atılacak projeler\CapacReport_v1.2.0\CapacReport\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Atılacak projeler\CapacReport_v1.2.0\CapacReport\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Atılacak projeler\CapacReport_v1.2.0\CapacReport\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Atılacak projeler\CapacReport_v1.2.0\CapacReport\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Atılacak projeler\CapacReport_v1.2.0\CapacReport\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Atılacak projeler\CapacReport_v1.2.0\CapacReport\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Atılacak projeler\CapacReport_v1.2.0\CapacReport\bin\roslyn\System.ValueTuple.dll
+D:\Atılacak projeler\CapacReport_v1.2.0\CapacReport\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Atılacak projeler\CapacReport_v1.2.0\CapacReport\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Atılacak projeler\CapacReport_v1.2.0\CapacReport\bin\roslyn\System.Xml.XPath.dll
+D:\Atılacak projeler\CapacReport_v1.2.0\CapacReport\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Atılacak projeler\CapacReport_v1.2.0\CapacReport\bin\roslyn\vbc.exe
+D:\Atılacak projeler\CapacReport_v1.2.0\CapacReport\bin\roslyn\vbc.exe.config
+D:\Atılacak projeler\CapacReport_v1.2.0\CapacReport\bin\roslyn\vbc.rsp
+D:\Atılacak projeler\CapacReport_v1.2.0\CapacReport\bin\roslyn\VBCSCompiler.exe
+D:\Atılacak projeler\CapacReport_v1.2.0\CapacReport\bin\roslyn\VBCSCompiler.exe.config
+D:\Atılacak projeler\CapacReport_v1.2.0\CapacReport\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Atılacak projeler\CapacReport_v1.2.0\CapacReport\bin\Microsoft.Web.Infrastructure.dll
+D:\Atılacak projeler\CapacReport_v1.2.0\CapacReport\bin\Syncfusion.Licensing.dll
+D:\Atılacak projeler\CapacReport_v1.2.0\CapacReport\bin\System.Web.Helpers.dll
+D:\Atılacak projeler\CapacReport_v1.2.0\CapacReport\bin\System.Web.Mvc.dll
+D:\Atılacak projeler\CapacReport_v1.2.0\CapacReport\bin\System.Web.Razor.dll
+D:\Atılacak projeler\CapacReport_v1.2.0\CapacReport\bin\System.Web.Webpages.Deployment.dll
+D:\Atılacak projeler\CapacReport_v1.2.0\CapacReport\bin\System.Web.Webpages.dll
+D:\Atılacak projeler\CapacReport_v1.2.0\CapacReport\bin\System.Web.Webpages.Razor.dll
+D:\Atılacak projeler\CapacReport_v1.2.0\CapacReport\bin\System.Web.Razor.xml
+D:\Atılacak projeler\CapacReport_v1.2.0\CapacReport\bin\System.Web.Webpages.xml
+D:\Atılacak projeler\CapacReport_v1.2.0\CapacReport\bin\System.Web.Webpages.Deployment.xml
+D:\Atılacak projeler\CapacReport_v1.2.0\CapacReport\bin\System.Web.Webpages.Razor.xml
+D:\Atılacak projeler\CapacReport_v1.2.0\CapacReport\bin\System.Web.Helpers.xml
+D:\Atılacak projeler\CapacReport_v1.2.0\CapacReport\bin\System.Web.Mvc.xml
+D:\Atılacak projeler\CapacReport_v1.2.0\CapacReport\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Atılacak projeler\CapacReport_v1.2.0\CapacReport\obj\Debug\CapacReport.csproj.AssemblyReference.cache
+D:\Atılacak projeler\CapacReport_v1.2.0\CapacReport\obj\Debug\CapacReport.csproj.CoreCompileInputs.cache
+D:\Atılacak projeler\CapacReport_v1.2.0\CapacReport\obj\Debug\CapacReport.dll
+D:\Atılacak projeler\CapacReport_v1.2.0\CapacReport\obj\Debug\CapacReport.pdb
